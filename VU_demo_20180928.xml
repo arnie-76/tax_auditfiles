@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<auditfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="XmlAuditfileFinancieel3.2.xsd" xmlns="http://www.auditfiles.nl/XAF/3.2">
+<auditfile>
 <header>
 <fiscalYear>2018</fiscalYear>
 <startDate>2018-01-01</startDate>
